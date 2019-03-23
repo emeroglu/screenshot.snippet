@@ -1,0 +1,10 @@
+c:\users\erhan emre eroğlu\documents\visual studio 2012\Projects\Screenshot\Screenshot\obj\Debug\Screenshot.csprojResolveAssemblyReference.cache
+c:\users\erhan emre eroğlu\documents\visual studio 2012\Projects\Screenshot\Screenshot\bin\Debug\Screenshot.exe
+c:\users\erhan emre eroğlu\documents\visual studio 2012\Projects\Screenshot\Screenshot\bin\Debug\Screenshot.pdb
+c:\users\erhan emre eroğlu\documents\visual studio 2012\Projects\Screenshot\Screenshot\obj\Debug\Screenshot.exe
+c:\users\erhan emre eroğlu\documents\visual studio 2012\Projects\Screenshot\Screenshot\obj\Debug\Screenshot.pdb
+C:\Users\user\Dropbox (Chiqqou)\Chiqqou\Projects\Windows Projects\Screenshot\Screenshot\obj\Debug\Screenshot.exe
+C:\Users\user\Dropbox (Chiqqou)\Chiqqou\Projects\Windows Projects\Screenshot\Screenshot\obj\Debug\Screenshot.pdb
+C:\Users\user\Dropbox (Chiqqou)\Chiqqou\Projects\Windows Projects\Screenshot\Screenshot\bin\Debug\Screenshot.exe
+C:\Users\user\Dropbox (Chiqqou)\Chiqqou\Projects\Windows Projects\Screenshot\Screenshot\bin\Debug\Screenshot.pdb
+C:\Users\user\Dropbox (Chiqqou)\Chiqqou\Projects\Windows Projects\Screenshot\Screenshot\obj\Debug\Screenshot.csprojResolveAssemblyReference.cache
